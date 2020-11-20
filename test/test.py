@@ -10,6 +10,5 @@ v3 = tf.math.multiply(v1, v2)
 def mm():
     print(f"result = {v3}")
 
-
 mm()
 print(f"result = {v3}")

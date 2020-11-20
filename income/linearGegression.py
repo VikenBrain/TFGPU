@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 print('Tensorflow Version:.{}'.format(tf.__version__))
 
-"""f(x) = ax + b"""
+"""f(x) = ax + b, 单个神经元"""
 
 class linearG():
 
